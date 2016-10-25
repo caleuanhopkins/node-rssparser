@@ -18,7 +18,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/tk120404/node-rssparser.git"
+        "url": "https://github.com/caleuanhopkins/node-rssparser.git"
     },
     "dependencies": {
         "xml2js": ">=0.2.0",
